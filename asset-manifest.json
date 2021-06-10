@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KeyanArchitecture/static/css/main.cb0d928f.chunk.css",
+    "main.js": "/KeyanArchitecture/static/js/main.8d3b2bc8.chunk.js",
+    "main.js.map": "/KeyanArchitecture/static/js/main.8d3b2bc8.chunk.js.map",
+    "runtime-main.js": "/KeyanArchitecture/static/js/runtime-main.ea028d32.js",
+    "runtime-main.js.map": "/KeyanArchitecture/static/js/runtime-main.ea028d32.js.map",
+    "static/js/2.0011e153.chunk.js": "/KeyanArchitecture/static/js/2.0011e153.chunk.js",
+    "static/js/2.0011e153.chunk.js.map": "/KeyanArchitecture/static/js/2.0011e153.chunk.js.map",
+    "index.html": "/KeyanArchitecture/index.html",
+    "static/css/main.cb0d928f.chunk.css.map": "/KeyanArchitecture/static/css/main.cb0d928f.chunk.css.map",
+    "static/js/2.0011e153.chunk.js.LICENSE.txt": "/KeyanArchitecture/static/js/2.0011e153.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea028d32.js",
+    "static/js/2.0011e153.chunk.js",
+    "static/css/main.cb0d928f.chunk.css",
+    "static/js/main.8d3b2bc8.chunk.js"
+  ]
+}
